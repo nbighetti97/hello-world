@@ -1,2 +1,2 @@
 # hello-world
-Im not sure what im doing
+It is good that I can edit the text I previously wrote in here.  
